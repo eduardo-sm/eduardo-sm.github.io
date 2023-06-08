@@ -1,0 +1,32 @@
+{
+  "tiles": [
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=Angel+has+fallen",
+      "deepLinkParam": "contentId%3Dangel-has-fallen%26contentType%3Dmovie%26pageType%3Ddetail"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=The+old+man+and+the+gun",
+      "deepLinkParam": "contentId%3Dthe-old-man-and-the-gun%26contentType%3Dmovie%26pageType%3Ddetail"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=Fast+and+Furious",
+      "deepLinkParam": "contentId%3Dfast-and-furious-presents-hobbs-and-shaw%26contentType%3Dmovie%26pageType%3Ddetail"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=Red+Shoes",
+      "deepLinkParam": "contentId%3Dred-shoes-and-the-seven-dwarfs%26contentType%3Dmovie%26pageType%3Ddetail"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=Bem",
+      "deepLinkParam": "contentId%3Dbem%26contentType%3Dseries%26pageType%3Ddetail"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=2019",
+      "deepLinkParam": "contentId%3D2019%26contentType%3Dseries%26pageType%3Ddetail"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=Swamp+thing",
+      "deepLinkParam": "contentId%3Dswamp-thing%26contentType%3Dmovie%26pageType%3Ddetail"
+    }
+  ]
+}
